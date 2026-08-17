@@ -1,38 +1,19 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Amirhossein Safaei — Premedo"/>
+  <img src="assets/banner.svg" width="100%" alt="Amirhossein Safaei - Premedo"/>
 </p>
 
-# 👋 About Me
+## 👋 Who I Am
 
-Hi, I'm **Amirhossein Safaei** — online as **Premedo**. 17 years old, from Mashhad, Iran 🇮🇷, currently in vocational school (پایه یازدهم).
+**Amirhossein Safaei** — known online as **Premedo**. I'm 17, live in Mashhad, Iran 🇮🇷, and study at vocational school (12th grade).
 
-I build things for the web:
+My thing is stuff that runs right in the browser:
 
-- 🎵 **Harmonia** — a music player with a clean UI in a single PHP file
-- 🌆 **My 3D portfolio** — an interactive cyberpunk city in vanilla Three.js
+- 🎵 **Harmonia** — one PHP file, zero frameworks, clean UI. A music player.
+- 🌆 **[My 3D portfolio](https://amirhossein41148.github.io/amirhossein-portfolio/)** — a cyberpunk city you can walk through, plain Three.js
 
----
+**Tools I use:** PHP · JavaScript · HTML/CSS · Node.js · Three.js · Git
 
-## 🛠 What I Work With
-
-| Category | Tools |
-|:--|:--|
-| **Web** | PHP, JavaScript, HTML/CSS, Node.js |
-| **3D & visuals** | Three.js — vanilla, no frameworks |
-| **Daily drivers** | Git, terminal, GitHub Actions |
-
----
-
-## 📌 Featured Projects
-
-| Project | What it is | Stack |
-|:--|:--|:--|
-| [**Harmonia**](https://github.com/Amirhossein41148/Harmonia) | A music player with a clean UI — the whole thing in one PHP file | PHP, JavaScript |
-| [**3D Portfolio**](https://github.com/Amirhossein41148/amirhossein-portfolio) | Interactive cyberpunk city, rendered in the browser | Three.js, Vanilla JS |
-
----
-
-## 📈 My Activity
+## 📈 Activity
 
 <p align="center">
   <img src="assets/contrib.svg" alt="contribution graph"/>
@@ -44,20 +25,26 @@ I build things for the web:
   <img src="https://img.shields.io/github/followers/Amirhossein41148?label=FOLLOWERS&style=for-the-badge&color=22c55e" alt="followers"/>
 </p>
 
----
+## 📫 Say Hi
 
-## 🎮 Outside of Code
-
-Roblox, CS2, Minecraft, osu!
+🌐 [Portfolio](https://amirhossein41148.github.io/amirhossein-portfolio/) · 💬 [GitHub](https://github.com/Amirhossein41148) · 📨 [Telegram @AmirPrem](https://t.me/AmirPrem) · ✉️ amirhossein411484@gmail.com
 
 ---
 
-## 📫 Find Me
+## ✨ درباره من
 
-- 🌐 Portfolio — [amirhossein41148.github.io/amirhossein-portfolio](https://amirhossein41148.github.io/amirhossein-portfolio/)
-- 💬 GitHub — [@Amirhossein41148](https://github.com/Amirhossein41148)
-- ✉️ Email — amirhossein411484@gmail.com
-- 📨 Telegram — [@AmirPrem](https://t.me/AmirPrem)
+من **امیرحسین صفایی** هستم.
+۱۷ سالمه، مشهدی هستم، الان پایه دوازدهم فنی می‌خونم.
+
+دوست دارم چیزایی بسازم که مستقیم تو مرورگر کار کنن:
+
+- 🎵 **هارمونیا** — یه پلیر موسیقی؛ کلش تو یه فایل PHP، بدون فریم‌ورک
+- 🌆 **پورتفولیوی سه‌بعدی** — شهر سایبرپانکی که می‌تونی توش حرکت کنی، فقط با Three.js
+
+**ابزارهایی که کار می‌کنم باهاشون:** PHP · JavaScript · HTML/CSS · Node.js · Three.js · Git
+
+- 🎮 وقتی کد نمی‌نویسم: رابوکس، CS2، ماینکرفت، osu!
+- 🌐 [پورتفولیو](https://amirhossein41148.github.io/amirhossein-portfolio/) · 📨 [تلگرام @AmirPrem](https://t.me/AmirPrem) · ✉️ amirhossein411484@gmail.com
 
 ---
 
