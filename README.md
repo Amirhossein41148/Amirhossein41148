@@ -10,7 +10,6 @@ I build things for the web:
 
 - 🎵 **Harmonia** — a music player with a clean UI in a single PHP file
 - 🌆 **My 3D portfolio** — an interactive cyberpunk city in vanilla Three.js
-- 🔧 A bunch of network/CF Workers tools I built to scratch my own itch
 
 ---
 
@@ -20,7 +19,6 @@ I build things for the web:
 |:--|:--|
 | **Web** | PHP, JavaScript, HTML/CSS, Node.js |
 | **3D & visuals** | Three.js — vanilla, no frameworks |
-| **Edge** | Cloudflare Workers, VLESS, proxies |
 | **Daily drivers** | Git, terminal, GitHub Actions |
 
 ---
