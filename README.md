@@ -8,11 +8,11 @@ Hi, I'm **Amirhossein Safaei** — online as **Premedo**. 17 years old, from Mas
 
 I build things that live in the browser — and I take them apart to learn how they work:
 
-- 🎵 **Harmonia** — a music player in a single PHP file
+- 🎵 **Harmonia** — a music player with a clean UI in a single PHP file
 - 🌆 **My 3D portfolio** — an interactive cyberpunk city in vanilla Three.js
-- 🧪 **plix** — a programming language with its own interpreter
+- 🔍 **Proxy-finder** — an HTML tool to search and test proxy servers
 
-> من فقط ابزار مصرف نمی‌کنم — می‌سازمش. 🛠️
+> ابزار مصرف نمی‌کنم، خودم می‌سازم. 🛠️
 
 ---
 
@@ -33,13 +33,15 @@ I build things that live in the browser — and I take them apart to learn how t
 |:--|:--|:--|
 | [**Harmonia**](https://github.com/Amirhossein41148/Harmonia) | A music player with a clean UI — the whole thing in one PHP file | PHP, JavaScript |
 | [**3D Portfolio**](https://github.com/Amirhossein41148/amirhossein-portfolio) | Interactive cyberpunk city, rendered in the browser | Three.js, Vanilla JS |
-| [**plix**](https://github.com/Amirhossein41148/plix) | A fast, safe, gradually-typed language with interpreter | Python |
+| [**Proxy-finder**](https://github.com/Amirhossein41148/Proxy-finder) | HTML tool to search and test proxy servers | HTML |
 
 ---
 
 ## 📊 GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amirhossein41148&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amirhossein41148&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossein41148&theme=tokyonight&hide_border=true&count_private=true&layout=compact)
 
 ---
 
@@ -54,6 +56,7 @@ Roblox, CS2, Minecraft, osu! — and since no music player had exactly the vibe 
 - 🌐 Portfolio — [amirhossein41148.github.io/amirhossein-portfolio](https://amirhossein41148.github.io/amirhossein-portfolio/)
 - 💬 GitHub — [@Amirhossein41148](https://github.com/Amirhossein41148)
 - ✉️ Email — amirhossein411484@gmail.com
+- 📨 Telegram — [@AmirPrem](https://t.me/AmirPrem)
 
 ---
 
