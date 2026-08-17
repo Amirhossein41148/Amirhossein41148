@@ -43,7 +43,7 @@ My thing is stuff that runs right in the browser:
 
 **ابزارهایی که کار می‌کنم باهاشون:** PHP · JavaScript · HTML/CSS · Node.js · Three.js · Git
 
-- 🎮 وقتی کد نمی‌نویسم: رابوکس، CS2، ماینکرفت، osu!
+- 🎮 گیم هایی که میزنم: روبلاکس، CS2، ماینکرفت، osu! و موبایل لجند
 - 🌐 [پورتفولیو](https://amirhossein41148.github.io/amirhossein-portfolio/) · 📨 [تلگرام @AmirPrem](https://t.me/AmirPrem) · ✉️ amirhossein411484@gmail.com
 
 ---
