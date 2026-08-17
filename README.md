@@ -1,76 +1,60 @@
-<h1 align="center">Hi 👋, I'm Amirhossein Safaei</h1>
-<h3 align="center">A passionate developer from Mashhad, Iran 🇮🇷</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=PHP+Developer;JavaScript+%26+Three.js+Enthusiast;Open+Source+Lover;Always+Learning" />
+  <img src="assets/banner.svg" width="100%" alt="Amirhossein Safaei — Premedo"/>
 </p>
 
----
+# 👋 About Me
 
-### 💫 About Me
+Hi, I'm **Amirhossein Safaei** — online as **Premedo**. 17 years old, from Mashhad, Iran 🇮🇷, currently in vocational school (پایه یازدهم).
 
-I'm **Amirhossein Safaei** (a.k.a. **Premedo**), a 17-year-old developer from Mashhad, Iran. Currently studying at vocational school (پایه یازدهم) while building real projects:
+I build things that live in the browser — and I take them apart to learn how they work:
 
-- 🎵 Built **[Harmonia](https://github.com/Amirhossein41148/Harmonia)** — a single-file PHP music player
-- 🌆 Built my **[3D cyberpunk portfolio](https://amirhossein41148.github.io/amirhossein-portfolio/)** with vanilla JS + Three.js
-- 🧪 Experimented with a programming language interpreter (**plix**)
-- 🎮 I play Roblox, CS2, Minecraft, and osu!
+- 🎵 **Harmonia** — a music player in a single PHP file
+- 🌆 **My 3D portfolio** — an interactive cyberpunk city in vanilla Three.js
+- 🧪 **plix** — a programming language with its own interpreter
 
-> من امیرحسین صفایی هستم، توسعه‌دهنده ۱۷ ساله از مشهد — همیشه در حال یادگیری و ساختن 🚀
-
----
-
-### 🛠️ Tech Stack
-
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+> من فقط ابزار مصرف نمی‌کنم — می‌سازمش. 🛠️
 
 ---
 
-### 📌 Featured Projects
+## 🛠 What I Work With
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Harmonia**](https://github.com/Amirhossein41148/Harmonia) | Single-file PHP music player with clean UI | PHP, JavaScript |
-| [**3D Portfolio**](https://github.com/Amirhossein41148/amirhossein-portfolio) | Interactive cyberpunk city — WebGL/Three.js | Three.js, Vanilla JS |
-| [**Plix**](https://github.com/Amirhossein41148/plix) | A fast, safe, gradually-typed programming language | Python |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirhossein41148&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhossein41148&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossein41148&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+| Category | Tools |
+|:--|:--|
+| **Web** | PHP, JavaScript, HTML/CSS, Node.js |
+| **3D & visuals** | Three.js — vanilla, no frameworks |
+| **Languages** | Python, PHP, JavaScript |
+| **Daily drivers** | Git, terminal, GitHub Actions |
 
 ---
 
-### 🌐 Connect With Me
+## 📌 Featured Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-Amirhossein41148-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amirhossein41148)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://amirhossein41148.github.io/amirhossein-portfolio/)
-[![Email](https://img.shields.io/badge/Email-amirhossein411484@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhossein411484@gmail.com)
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+| Project | What it is | Stack |
+|:--|:--|:--|
+| [**Harmonia**](https://github.com/Amirhossein41148/Harmonia) | A music player with a clean UI — the whole thing in one PHP file | PHP, JavaScript |
+| [**3D Portfolio**](https://github.com/Amirhossein41148/amirhossein-portfolio) | Interactive cyberpunk city, rendered in the browser | Three.js, Vanilla JS |
+| [**plix**](https://github.com/Amirhossein41148/plix) | A fast, safe, gradually-typed language with interpreter | Python |
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Amirhossein41148&icon=6&color=0" alt="visitors"/>
-</p>
+## 📊 GitHub
 
-<p align="center">Made with ❤️ by Premedo</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amirhossein41148&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+---
+
+## 🎮 Outside of Code
+
+Roblox, CS2, Minecraft, osu! — and since no music player had exactly the vibe I wanted, I built **Harmonia** myself. 😄
+
+---
+
+## 📫 Find Me
+
+- 🌐 Portfolio — [amirhossein41148.github.io/amirhossein-portfolio](https://amirhossein41148.github.io/amirhossein-portfolio/)
+- 💬 GitHub — [@Amirhossein41148](https://github.com/Amirhossein41148)
+- ✉️ Email — amirhossein411484@gmail.com
+
+---
+
+<p align="center"><sub>crafted in Mashhad 🌃</sub></p>
