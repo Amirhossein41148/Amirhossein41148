@@ -8,7 +8,7 @@
 
 My thing is stuff that runs right in the browser:
 
-- 🎵 **Harmonia** — one PHP file, zero frameworks, clean UI. A music player.
+- 🎵 **[Harmonia](https://github.com/Amirhossein41148/Harmonia)** — one PHP file, zero frameworks, clean UI. A music player.
 - 🌆 **[My 3D portfolio](https://amirhossein41148.github.io/amirhossein-portfolio/)** — a cyberpunk city you can walk through, plain Three.js
 
 **Tools I use:** PHP · JavaScript · HTML/CSS · Node.js · Three.js · Git
