@@ -72,19 +72,19 @@ Walk through a cyberpunk city — built with plain Three.js, no React.
 ### 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhossein41148&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
+  <img src="assets/contrib.svg" width="100%" alt="Activity"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amirhossein41148&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="profile views"/>
-  &nbsp;
   <a href="mailto:amirhosseinsafaeiog@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amirhosseinsafaeiog%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+    <img src="https://img.shields.io/badge/Email-amirhosseinsafaeiog@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
   <a href="https://amirhossein41148.github.io/amirhossein-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Amirhossein41148&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/Amirhossein41148?label=STARS&style=for-the-badge&color=f97316" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/Amirhossein41148?label=FOLLOWERS&style=for-the-badge&color=22c55e" alt="Followers"/>
 </p>
