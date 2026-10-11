@@ -1,51 +1,90 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Amirhossein Safaei - Premedo"/>
+  <img src="assets/banner.svg" width="100%" alt="Amirhossein Safaei — Premedo"/>
 </p>
 
-## 👋 Who I Am
+<div align="center">
 
-**Amirhossein Safaei** — known online as **Premedo**. I'm 17, live in Mashhad, Iran 🇮🇷, and study at vocational school (12th grade).
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Web+Developer;3D+%2F+WebGL+Explorer;Open+Source+Builder" alt="Typing SVG" />
+</a>
 
-My thing is stuff that runs right in the browser:
+<br/>
 
-- 🎵 **[Harmonia](https://github.com/Amirhossein41148/Harmonia)** — one PHP file, zero frameworks, clean UI. A music player.
-- 🌆 **[My 3D portfolio](https://amirhossein41148.github.io/amirhossein-portfolio/)** — a cyberpunk city you can walk through, plain Three.js
+**17 y/o developer from Mashhad, Iran** 🇮🇷  
+Building things that live in the browser — from music players to 3D cities.
 
-**Tools I use:** PHP · JavaScript · HTML/CSS · Node.js · Three.js · Git
+</div>
 
-## 📈 Activity
+---
+
+### 🔧 Stack
 
 <p align="center">
-  <img src="assets/contrib.svg" alt="contribution graph"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+---
+
+### 📌 Featured
+
+<table>
+<tr>
+<td width="50%">
+
+**🎵 [Harmonia](https://github.com/Amirhossein41148/Harmonia)**  
+A self-contained PHP music player — zero frameworks, clean UI, full-featured.  
+`PHP` `PWA` `Media Session`
+
+</td>
+<td width="50%">
+
+**🌆 [3D Portfolio](https://amirhossein41148.github.io/amirhossein-portfolio/)**  
+Walk through a cyberpunk city — built with plain Three.js, no React.  
+`JavaScript` `Three.js` `WebGL`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amirhossein41148&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Amirhossein41148&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossein41148&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+### 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhossein41148&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amirhossein41148&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="profile views"/>
-  <img src="https://img.shields.io/github/stars/Amirhossein41148?label=STARS&style=for-the-badge&color=f97316" alt="stars"/>
-  <img src="https://img.shields.io/github/followers/Amirhossein41148?label=FOLLOWERS&style=for-the-badge&color=22c55e" alt="followers"/>
+  &nbsp;
+  <a href="mailto:amirhosseinsafaeiog@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amirhosseinsafaeiog%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  &nbsp;
+  <a href="https://amirhossein41148.github.io/amirhossein-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/>
+  </a>
 </p>
-
-## 📫 Say Hi
-
-🌐 [Portfolio](https://amirhossein41148.github.io/amirhossein-portfolio/) · 💬 [GitHub](https://github.com/Amirhossein41148) · 📨 [Telegram @AmirPrem](https://t.me/AmirPrem) · ✉️ amirhosseinsafaeiog@gmail.com
-
----
-
-## ✨ درباره من
-
-من **امیرحسین صفایی** هستم.
-۱۷ سالمه، مشهدی هستم، الان پایه دوازدهم فنی می‌خونم.
-
-دوست دارم چیزایی بسازم که مستقیم تو مرورگر کار کنن:
-
-- 🎵 **هارمونیا** — یه پلیر موسیقی؛ کلش تو یه فایل PHP، بدون فریم‌ورک
-- 🌆 **پورتفولیوی سه‌بعدی** — شهر سایبرپانکی که می‌تونی توش حرکت کنی، فقط با Three.js
-
-**ابزارهایی که کار می‌کنم باهاشون:** PHP · JavaScript · HTML/CSS · Node.js · Three.js · Git
-
-- 🎮 گیم هایی که میزنم: روبلاکس، CS2، ماینکرفت، osu! و موبایل لجند
-- 🌐 [پورتفولیو](https://amirhossein41148.github.io/amirhossein-portfolio/) · 📨 [تلگرام @AmirPrem](https://t.me/AmirPrem) · ✉️ amirhosseinsafaeiog@gmail.com
-
----
-
-<p align="center"><sub>crafted in Mashhad 🌃</sub></p>
