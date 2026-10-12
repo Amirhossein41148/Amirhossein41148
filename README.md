@@ -72,13 +72,13 @@ Walk through a cyberpunk city — built with plain Three.js, no React.
 ### 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhossein41148&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
+  <img src="assets/contrib.svg" alt="Activity"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amirhossein41148&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://hits.sh/github.com/Amirhossein41148.svg?style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="profile views"/>
   &nbsp;
   <a href="mailto:amirhosseinsafaeiog@gmail.com">
     <img src="https://img.shields.io/badge/Email-amirhosseinsafaeiog%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
